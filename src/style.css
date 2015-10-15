@@ -446,6 +446,10 @@ body>pre a,body>pre a:visited,#main-panel pre a,#main-panel pre a:visited {
     color:#9a8eb8;
 }
 
+#hudson-security-GlobalMatrixAuthorizationStrategy tr th.pane {
+    color: #333!important;
+}
+
 th.pane {
     color: #f5f5f5!important;
 }
